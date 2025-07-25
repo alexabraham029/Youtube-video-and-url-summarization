@@ -7,3 +7,5 @@ validators
 youtube-transcript-api
 yt-dlp
 python-dotenv
+unstructured
+pytube
